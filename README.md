@@ -6,6 +6,8 @@ https://github.com/LC1332/Chinese-alpaca-lora
 
 ## LLaMA
 
+* [0门槛克隆ChatGPT方案再升级，开源模型完整复现，在线体验无需注册 (qq.com)](https://mp.weixin.qq.com/s/V5pCvYvkPXwiMw-FNIErXw)
+* [hpcaitech/ColossalAI: Making large AI models cheaper, faster and more accessible (github.com)](https://github.com/hpcaitech/ColossalAI)
 * [ymcui/Chinese-LLaMA-Alpaca: 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs) (github.com)](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
 * [使用 Docker 和 Alpaca LoRA 对 LLaMA 65B 大模型进行 Fine-Tune - 苏洋博客 (soulteary.com)](https://soulteary.com/2023/03/25/model-finetuning-on-llama-65b-large-model-using-docker-and-alpaca-lora.html#对-llama-7b-大模型进行-fine-tune)
 * [【开源GPT】三位华人小哥开源中文语言模型“骆驼”，单卡即可完成训练部署，花费几百训练自己的中文聊天模型 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/615968438)
