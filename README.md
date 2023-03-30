@@ -25,7 +25,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 
 * [chatIE]([cocacola-lab/ChatIE: official repository for ChatIE paper and a tool of IE using ChatGPT. Note: we set a default openai key in the tool, you can tell us if reach limit. The response speed depends on the official openai chatgpt api. ( sometimes, the official is too crowded and the speed/model will be slow/overloaded.) (github.com)](https://github.com/cocacola-lab/ChatIE))
 
-* [基于ChatGPT的情感分析，分别对比了百度和chatgpt的效果]([taishan1994/ChatSA: 基于ChatGPT的情感分析 (github.com)](https://github.com/taishan1994/ChatSA))
+* [基于ChatGPT的情感分析，分别对比了百度和chatgpt的效果](https://github.com/taishan1994/ChatSA)
 
 ## 其他资源
 
