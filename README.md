@@ -12,6 +12,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [使用 Docker 和 Alpaca LoRA 对 LLaMA 65B 大模型进行 Fine-Tune - 苏洋博客 (soulteary.com)](https://soulteary.com/2023/03/25/model-finetuning-on-llama-65b-large-model-using-docker-and-alpaca-lora.html#对-llama-7b-大模型进行-fine-tune)
 * [【开源GPT】三位华人小哥开源中文语言模型“骆驼”，单卡即可完成训练部署，花费几百训练自己的中文聊天模型 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/615968438)
 * [ydli-ai/Chinese-ChatLLaMA: 中文LLaMA基础模型；中文ChatLLaMA对话模型；预训练/指令微调数据集 (github.com)](https://github.com/ydli-ai/Chinese-ChatLLaMA)
+* [LianjiaTech/BELLE: BELLE: BE Large Language model Engine（开源中文对话大模型） (github.com)](https://github.com/LianjiaTech/BELLE)
 
 ## chatGLM
 
