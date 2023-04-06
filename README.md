@@ -20,6 +20,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [mymusise/ChatGLM-Tuning: 一种平价的chatgpt实现方案, 基于ChatGLM-6B + LoRA (github.com)](https://github.com/mymusise/ChatGLM-Tuning)
 * [!!!27182812/ChatGLM-chinese-insturct: 探索中文instruct数据在ChatGLM-6B上微调表现 (github.com)](https://github.com/27182812/ChatGLM-chinese-insturct)
 * [liangwq/Chatglm_lora_multi-gpu: chatglm多gpu用deepspeed和 (github.com)](https://github.com/liangwq/Chatglm_lora_multi-gpu)
+* [zero_nlp/simple_thu_chatglm6b at main · yuanzhoulvpi2017/zero_nlp (github.com)](https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/simple_thu_chatglm6b)
 
 ## 下游任务应用
 
@@ -32,3 +33,4 @@ https://github.com/LC1332/Chinese-alpaca-lora
 ## 其他资源
 
 [nichtdax/awesome-totally-open-chatgpt: A list of totally open alternatives to ChatGPT (github.com)](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+
