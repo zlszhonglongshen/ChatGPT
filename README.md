@@ -16,6 +16,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [LianjiaTech/BELLE: BELLE: BE Large Language model Engine（开源中文对话大模型） (github.com)](https://github.com/LianjiaTech/BELLE)
 
 * [3090单卡5小时，每个人都能训练专属ChatGPT，港科大开源LMFlow](https://zhuanlan.zhihu.com/p/620221835)
+* [hpcaitech/ColossalAI: Making large AI models cheaper, faster and more accessible (github.com)](https://github.com/hpcaitech/ColossalAI)
 
 ## chatGLM
 
@@ -30,7 +31,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 
 * [gpt4IE](https://github.com/cocacola-lab/GPT4IE)
 * [chatIE]([cocacola-lab/ChatIE: official repository for ChatIE paper and a tool of IE using ChatGPT. Note: we set a default openai key in the tool, you can tell us if reach limit. The response speed depends on the official openai chatgpt api. ( sometimes, the official is too crowded and the speed/model will be slow/overloaded.) (github.com)](https://github.com/cocacola-lab/ChatIE))
-* [基于ChatGPT的情感分析，分别对比了百度和chatgpt的效果
+* [基于ChatGPT的情感分析，分别对比了百度和chatgpt的效果]([taishan1994/ChatSA: 基于ChatGPT的情感分析 (github.com)](https://github.com/taishan1994/ChatSA))
 * [visual-openllm/visual-openllm: something like visual-chatgpt, 文心一言的开源版 (github.com)](https://github.com/visual-openllm/visual-openllm)
 
 ## 其他资源
