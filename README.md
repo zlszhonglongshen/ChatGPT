@@ -38,5 +38,6 @@ https://github.com/LC1332/Chinese-alpaca-lora
 
 ## 其他资源
 
-[nichtdax/awesome-totally-open-chatgpt: A list of totally open alternatives to ChatGPT (github.com)](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+* [nichtdax/awesome-totally-open-chatgpt: A list of totally open alternatives to ChatGPT (github.com)](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 
+* [ColossalChat：完整RLHF平替ChatGPT的开源方案](https://zhuanlan.zhihu.com/p/618048558)
