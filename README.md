@@ -14,6 +14,8 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [ydli-ai/Chinese-ChatLLaMA: 中文LLaMA基础模型；中文ChatLLaMA对话模型；预训练/指令微调数据集 (github.com)](https://github.com/ydli-ai/Chinese-ChatLLaMA)
 * [LianjiaTech/BELLE: BELLE: BE Large Language model Engine（开源中文对话大模型） (github.com)](https://github.com/LianjiaTech/BELLE)
 
+* [3090单卡5小时，每个人都能训练专属ChatGPT，港科大开源LMFlow](https://zhuanlan.zhihu.com/p/620221835)
+
 ## chatGLM
 
 * [visual-openllm/visual-openllm: something like visual-chatgpt, 文心一言的开源版 (github.com)](https://github.com/visual-openllm/visual-openllm)
