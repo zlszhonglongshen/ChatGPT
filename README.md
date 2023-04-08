@@ -34,6 +34,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [基于ChatGPT的情感分析，分别对比了百度和chatgpt的效果]([taishan1994/ChatSA: 基于ChatGPT的情感分析 (github.com)](https://github.com/taishan1994/ChatSA))
 * [visual-openllm/visual-openllm: something like visual-chatgpt, 文心一言的开源版 (github.com)](https://github.com/visual-openllm/visual-openllm)
 * [WangRongsheng/ChatGenTitle: 🌟 ChatGenTitle：使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型 (github.com)](https://github.com/WangRongsheng/ChatGenTitle)
+* [Moonvy/OpenPromptStudio: 🥣 AIGC 提示词可视化编辑器 (github.com)](https://github.com/Moonvy/OpenPromptStudio)
 
 ## 其他资源
 
