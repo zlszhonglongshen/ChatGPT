@@ -42,3 +42,5 @@ https://github.com/LC1332/Chinese-alpaca-lora
 
 * [ColossalChat：完整RLHF平替ChatGPT的开源方案](https://zhuanlan.zhihu.com/p/618048558)
 * [binary-husky/chatgpt_academic: 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python/C++/Go项目树剖析功能/项目源代码自译解能力，新增PDF和Word文献批量总结功能/PDF论文全文翻译功能 (github.com)](https://github.com/binary-husky/chatgpt_academic)
+
+* [BLOOM 训练背后的技术 (qq.com)](https://mp.weixin.qq.com/s/-q9opkoAomd9LZL9phm8bA)
