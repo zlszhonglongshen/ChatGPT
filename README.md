@@ -14,9 +14,10 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [【开源GPT】三位华人小哥开源中文语言模型“骆驼”，单卡即可完成训练部署，花费几百训练自己的中文聊天模型 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/615968438)
 * [ydli-ai/Chinese-ChatLLaMA: 中文LLaMA基础模型；中文ChatLLaMA对话模型；预训练/指令微调数据集 (github.com)](https://github.com/ydli-ai/Chinese-ChatLLaMA)
 * [LianjiaTech/BELLE: BELLE: BE Large Language model Engine（开源中文对话大模型） (github.com)](https://github.com/LianjiaTech/BELLE)
-
 * [3090单卡5小时，每个人都能训练专属ChatGPT，港科大开源LMFlow](https://zhuanlan.zhihu.com/p/620221835)
 * [hpcaitech/ColossalAI: Making large AI models cheaper, faster and more accessible (github.com)](https://github.com/hpcaitech/ColossalAI)
+* [开发者笑疯了！ LLaMa泄露引爆ChatGPT平替狂潮，开源LLM领域变天 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/620801077)
+* [GPT fine-tune实战： 训练我自己的 ChatGPT🚀🚀🚀 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/616504594)
 
 ## chatGLM
 
