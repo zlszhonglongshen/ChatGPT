@@ -30,7 +30,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 ## 下游任务应用
 
 * [gpt4IE](https://github.com/cocacola-lab/GPT4IE)
-* [chatIE]([cocacola-lab/ChatIE: official repository for ChatIE paper and a tool of IE using ChatGPT. Note: we set a default openai key in the tool, you can tell us if reach limit. The response speed depends on the official openai chatgpt api. ( sometimes, the official is too crowded and the speed/model will be slow/overloaded.) (github.com)](https://github.com/cocacola-lab/ChatIE))
+* [cocacola-lab/ChatIE: official repository for ChatIE paper and a tool of IE using ChatGPT. Note: we set a default openai key in the tool, you can tell us if reach limit. The response speed depends on the official openai chatgpt api. ( sometimes, the official is too crowded and the speed/model will be slow/overloaded.) (github.com)](https://github.com/cocacola-lab/ChatIE)
 * [基于ChatGPT的情感分析，分别对比了百度和chatgpt的效果]([taishan1994/ChatSA: 基于ChatGPT的情感分析 (github.com)](https://github.com/taishan1994/ChatSA))
 * [visual-openllm/visual-openllm: something like visual-chatgpt, 文心一言的开源版 (github.com)](https://github.com/visual-openllm/visual-openllm)
 * [WangRongsheng/ChatGenTitle: 🌟 ChatGenTitle：使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型 (github.com)](https://github.com/WangRongsheng/ChatGenTitle)
@@ -45,3 +45,4 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [binary-husky/chatgpt_academic: 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python/C++/Go项目树剖析功能/项目源代码自译解能力，新增PDF和Word文献批量总结功能/PDF论文全文翻译功能 (github.com)](https://github.com/binary-husky/chatgpt_academic)
 
 * [BLOOM 训练背后的技术 (qq.com)](https://mp.weixin.qq.com/s/-q9opkoAomd9LZL9phm8bA)
+* [microsoft/JARVIS: JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (github.com)](https://github.com/microsoft/JARVIS)
