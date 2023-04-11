@@ -37,6 +37,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [WangRongsheng/ChatGenTitle: 🌟 ChatGenTitle：使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型 (github.com)](https://github.com/WangRongsheng/ChatGenTitle)
 * [Moonvy/OpenPromptStudio: 🥣 AIGC 提示词可视化编辑器 (github.com)](https://github.com/Moonvy/OpenPromptStudio)
 * [Yidadaa/ChatGPT-Next-Web: One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (github.com)](https://github.com/Yidadaa/ChatGPT-Next-Web)
+* [yanqiangmiffy/InstructGLM: ChatGLM-6B 指令学习|指令数据|Instruct (github.com)](https://github.com/yanqiangmiffy/InstructGLM)
 
 ## 其他资源
 
