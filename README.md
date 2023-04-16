@@ -27,6 +27,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [!!!27182812/ChatGLM-chinese-insturct: 探索中文instruct数据在ChatGLM-6B上微调表现 (github.com)](https://github.com/27182812/ChatGLM-chinese-insturct)
 * [liangwq/Chatglm_lora_multi-gpu: chatglm多gpu用deepspeed和 (github.com)](https://github.com/liangwq/Chatglm_lora_multi-gpu)
 * [zero_nlp/simple_thu_chatglm6b at main · yuanzhoulvpi2017/zero_nlp (github.com)](https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/simple_thu_chatglm6b)
+* [hikariming/alpaca_chinese_dataset: 人工精调的中文对话数据集和一段chatglm的微调代码 (github.com)](https://github.com/hikariming/alpaca_chinese_dataset)
 
 ## 下游任务应用
 
