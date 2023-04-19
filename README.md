@@ -36,6 +36,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [zero_nlp/simple_thu_chatglm6b at main · yuanzhoulvpi2017/zero_nlp (github.com)](https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/simple_thu_chatglm6b)
 * [hikariming/alpaca_chinese_dataset: 人工精调的中文对话数据集和一段chatglm的微调代码 (github.com)](https://github.com/hikariming/alpaca_chinese_dataset)
 * [SCIR-HI/Med-ChatGLM: Repo for Chinese Medical ChatGLM 基于中文医学知识的ChatGLM指令微调 (github.com)](https://github.com/SCIR-HI/Med-ChatGLM)
+* [thinksoso/ChatGLM-Instruct-Tuning: 微调ChatGLM (github.com)](https://github.com/thinksoso/ChatGLM-Instruct-Tuning)
 
 ## 下游任务应用
 
@@ -54,3 +55,5 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [ColossalChat：完整RLHF平替ChatGPT的开源方案](https://zhuanlan.zhihu.com/p/618048558)
 * [binary-husky/chatgpt_academic: 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python/C++/Go项目树剖析功能/项目源代码自译解能力，新增PDF和Word文献批量总结功能/PDF论文全文翻译功能 (github.com)](https://github.com/binary-husky/chatgpt_academic)
 * [microsoft/JARVIS: JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (github.com)](https://github.com/microsoft/JARVIS)
+
+* [thinksoso/MedChat: 知识检索+ChatGPT (github.com)，是个通用web应用](https://github.com/thinksoso/MedChat)
