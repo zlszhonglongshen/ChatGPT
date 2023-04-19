@@ -24,6 +24,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [hpcaitech/ColossalAI: Making large AI models cheaper, faster and more accessible (github.com)](https://github.com/hpcaitech/ColossalAI)
 * [开发者笑疯了！ LLaMa泄露引爆ChatGPT平替狂潮，开源LLM领域变天 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/620801077)
 * [GPT fine-tune实战： 训练我自己的 ChatGPT🚀🚀🚀 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/616504594)
+* [SCIR-HI/Med-ChatGLM: Repo for Chinese Medical ChatGLM 基于中文医学知识的ChatGLM指令微调 (github.com)](https://github.com/SCIR-HI/Med-ChatGLM)
 
 ## chatGLM
 
