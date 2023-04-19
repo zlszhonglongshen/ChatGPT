@@ -24,7 +24,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [hpcaitech/ColossalAI: Making large AI models cheaper, faster and more accessible (github.com)](https://github.com/hpcaitech/ColossalAI)
 * [开发者笑疯了！ LLaMa泄露引爆ChatGPT平替狂潮，开源LLM领域变天 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/620801077)
 * [GPT fine-tune实战： 训练我自己的 ChatGPT🚀🚀🚀 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/616504594)
-* [SCIR-HI/Med-ChatGLM: Repo for Chinese Medical ChatGLM 基于中文医学知识的ChatGLM指令微调 (github.com)](https://github.com/SCIR-HI/Med-ChatGLM)
+* [SCIR-HI/Huatuo-Llama-Med-Chinese: Repo for HuaTuo (华驼), Llama-7B tuned with Chinese medical knowledge. 华驼模型仓库，基于中文医学知识的LLaMA模型指令微调 (github.com)](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)
 
 ## chatGLM
 
@@ -35,6 +35,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [liangwq/Chatglm_lora_multi-gpu: chatglm多gpu用deepspeed和 (github.com)](https://github.com/liangwq/Chatglm_lora_multi-gpu)
 * [zero_nlp/simple_thu_chatglm6b at main · yuanzhoulvpi2017/zero_nlp (github.com)](https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/simple_thu_chatglm6b)
 * [hikariming/alpaca_chinese_dataset: 人工精调的中文对话数据集和一段chatglm的微调代码 (github.com)](https://github.com/hikariming/alpaca_chinese_dataset)
+* [SCIR-HI/Med-ChatGLM: Repo for Chinese Medical ChatGLM 基于中文医学知识的ChatGLM指令微调 (github.com)](https://github.com/SCIR-HI/Med-ChatGLM)
 
 ## 下游任务应用
 
