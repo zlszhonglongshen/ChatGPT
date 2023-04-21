@@ -59,3 +59,4 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [microsoft/JARVIS: JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf (github.com)](https://github.com/microsoft/JARVIS)
 * [thinksoso/MedChat: 知识检索+ChatGPT (github.com)，是个通用web应用](https://github.com/thinksoso/MedChat)
 * [acheong08/ChatGPT: Reverse engineered ChatGPT API (github.com)](https://github.com/acheong08/ChatGPT)
+* [OpenLMLab/MOSS: An open-source tool-augmented conversational language model from Fudan University (github.com)](https://github.com/OpenLMLab/MOSS)
