@@ -1,3 +1,7 @@
+## LangChain
+
+[Chinese-LangChain 拆解 讲解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/623559601)
+
 ## bloom
 
 [BLOOM 训练背后的技术 (qq.com)](https://mp.weixin.qq.com/s/-q9opkoAomd9LZL9phm8bA)
