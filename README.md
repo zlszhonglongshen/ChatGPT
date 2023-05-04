@@ -57,6 +57,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [Moonvy/OpenPromptStudio: 🥣 AIGC 提示词可视化编辑器 (github.com)](https://github.com/Moonvy/OpenPromptStudio)
 * [Yidadaa/ChatGPT-Next-Web: One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (github.com)](https://github.com/Yidadaa/ChatGPT-Next-Web)
 * [yanqiangmiffy/InstructGLM: ChatGLM-6B 指令学习|指令数据|Instruct (github.com)，可直接用于模型训练](https://github.com/yanqiangmiffy/InstructGLM)
+* [yuanjie-ai/ChatLLM: 轻松玩转 LLM (github.com)](https://github.com/yuanjie-ai/ChatLLM)
 
 ## 其他资源
 
