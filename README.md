@@ -46,6 +46,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [SCIR-HI/Med-ChatGLM: Repo for Chinese Medical ChatGLM 基于中文医学知识的ChatGLM指令微调 (github.com)](https://github.com/SCIR-HI/Med-ChatGLM)
 * [thinksoso/ChatGLM-Instruct-Tuning: 微调ChatGLM (github.com)](https://github.com/thinksoso/ChatGLM-Instruct-Tuning)
 * [chatglm-maths](https://github.com/yongzhuo/chatglm-maths)
+* [chatglm的微调有没有保姆式的教程？?](https://www.zhihu.com/question/595670355)
 
 ## 下游任务应用
 
