@@ -47,6 +47,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [thinksoso/ChatGLM-Instruct-Tuning: 微调ChatGLM (github.com)](https://github.com/thinksoso/ChatGLM-Instruct-Tuning)
 * [chatglm-maths](https://github.com/yongzhuo/chatglm-maths)
 * [chatglm的微调有没有保姆式的教程？?](https://www.zhihu.com/question/595670355)
+* [hiyouga/ChatGLM-Efficient-Tuning: Fine-tuning ChatGLM-6B with PEFT | 基于 PEFT 的高效 ChatGLM 微调 (github.com)](https://github.com/hiyouga/ChatGLM-Efficient-Tuning/tree/main)
 
 ## 下游任务应用
 
