@@ -33,6 +33,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [SCIR-HI/Huatuo-Llama-Med-Chinese: Repo for HuaTuo (华驼), Llama-7B tuned with Chinese medical knowledge. 华驼模型仓库，基于中文医学知识的LLaMA模型指令微调 (github.com)](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)
 * [FreedomIntelligence/LLMZoo: ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡ (github.com)](https://github.com/FreedomIntelligence/LLMZoo)
 * [lm-sys/FastChat: The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" (github.com)](https://github.com/lm-sys/FastChat)
+* [LaWGPT：基于中文法律知识的大语言模型](https://github.com/pengxiao-song/LawGPT)
 
 ## chatGLM
 
