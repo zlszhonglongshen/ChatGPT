@@ -50,6 +50,8 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [chatglm的微调有没有保姆式的教程？?](https://www.zhihu.com/question/595670355)
 * [hiyouga/ChatGLM-Efficient-Tuning: Fine-tuning ChatGLM-6B with PEFT | 基于 PEFT 的高效 ChatGLM 微调 (github.com)](https://github.com/hiyouga/ChatGLM-Efficient-Tuning/tree/main)
 * [WangRongsheng/MedQA-ChatGLM: 🛰️ 基于真实医疗对话数据在ChatGLM上进行LoRA、P-Tuning V2、Freeze、RLHF等微调，我们的眼光不止于医疗问答 (github.com)](https://github.com/WangRongsheng/MedQA-ChatGLM/tree/main)
+* [THUDM/VisualGLM-6B: Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型 (github.com)](https://github.com/THUDM/VisualGLM-6B)
+* [WangRongsheng/XrayGLM: 🩺 首个会看胸部X光片的中文多模态医学大模型 | The first Chinese Medical Multimodal Model that Chest Radiographs Summarization. (github.com)](https://github.com/WangRongsheng/XrayGLM)
 
 ## 下游任务应用
 
