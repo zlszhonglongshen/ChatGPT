@@ -52,6 +52,8 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [WangRongsheng/MedQA-ChatGLM: 🛰️ 基于真实医疗对话数据在ChatGLM上进行LoRA、P-Tuning V2、Freeze、RLHF等微调，我们的眼光不止于医疗问答 (github.com)](https://github.com/WangRongsheng/MedQA-ChatGLM/tree/main)
 * [THUDM/VisualGLM-6B: Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型 (github.com)](https://github.com/THUDM/VisualGLM-6B)
 * [WangRongsheng/XrayGLM: 🩺 首个会看胸部X光片的中文多模态医学大模型 | The first Chinese Medical Multimodal Model that Chest Radiographs Summarization. (github.com)](https://github.com/WangRongsheng/XrayGLM)
+* [LexiLaw - 中文法律大模型](https://github.com/CSHaitao/LexiLaw)
+* [chatglm_多gpu模型训练](https://github.com/CSHaitao/ChatGLM_mutli_gpu_tuning)
 
 ## 下游任务应用
 
