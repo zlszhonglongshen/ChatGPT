@@ -54,6 +54,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [WangRongsheng/XrayGLM: 🩺 首个会看胸部X光片的中文多模态医学大模型 | The first Chinese Medical Multimodal Model that Chest Radiographs Summarization. (github.com)](https://github.com/WangRongsheng/XrayGLM)
 * [LexiLaw - 中文法律大模型](https://github.com/CSHaitao/LexiLaw)
 * [chatglm_多gpu模型训练](https://github.com/CSHaitao/ChatGLM_mutli_gpu_tuning)
+* [chatglm_医学](https://github.com/Stardust-hyx/Instruction_Tuning/tree/main)
 
 ## 下游任务应用
 
