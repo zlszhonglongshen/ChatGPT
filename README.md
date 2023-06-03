@@ -55,6 +55,7 @@ https://github.com/LC1332/Chinese-alpaca-lora
 * [LexiLaw - 中文法律大模型](https://github.com/CSHaitao/LexiLaw)
 * [chatglm_多gpu模型训练](https://github.com/CSHaitao/ChatGLM_mutli_gpu_tuning)
 * [chatglm_医学](https://github.com/Stardust-hyx/Instruction_Tuning/tree/main)
+* [chatglm——多种训练方式](https://github.com/jiangxinyang227/LLM-tuning/tree/master)
 
 ## 下游任务应用
 
