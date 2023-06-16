@@ -6,6 +6,7 @@
 
 ## bloom
 
+[大语言模型指令调优工具（支持全量参数微调、LoRA 和 QLoRA）](https://github.com/zejunwang1/LLMTuner)
 [BLOOM 训练背后的技术 (qq.com)](https://mp.weixin.qq.com/s/-q9opkoAomd9LZL9phm8bA)
 
 [FreedomIntelligence/LLMZoo: ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡ (github.com)](https://github.com/FreedomIntelligence/LLMZoo)
